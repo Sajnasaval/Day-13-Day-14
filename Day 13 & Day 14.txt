@@ -55,7 +55,7 @@
 0012.00    ENDPGM                                                               
         ****************** End of data **************************************** 
 
-4.One day a theif after robbery start running  
+4.Speed calculation
 
  FMT **  ...+... 1 ...+... 2 ...+... 3 ...+... 4 ...+... 5 ...+... 6 ...
         *************** Beginning of data ******************************
